@@ -1,0 +1,28 @@
+{
+  "author": "miekg",
+  "bugs": {},
+  "gx": {
+    "dvcsimport": "github.com/miekg/dns"
+  },
+  "gxDependencies": [
+    {
+      "author": "whyrusleeping",
+      "hash": "QmRYj8U8JM78vb5RRve1upGBn3oZbZmSJkWxseszSy5Npv",
+      "name": "go-crypto",
+      "version": "0.2.0"
+    },
+    {
+      "author": "whyrusleeping",
+      "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
+      "name": "go-net",
+      "version": "0.2.0"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "issues_url": "",
+  "language": "go",
+  "license": "BSD-3-Clause",
+  "name": "dns",
+  "version": "0.2.0"
+}
+
