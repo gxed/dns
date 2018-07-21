@@ -7,9 +7,9 @@
   "gxDependencies": [
     {
       "author": "whyrusleeping",
-      "hash": "QmRYj8U8JM78vb5RRve1upGBn3oZbZmSJkWxseszSy5Npv",
+      "hash": "QmW7VUmSvhvSGbYbdsh7uRjhGmsYkc9fL8aJ5CorxxrU5N",
       "name": "go-crypto",
-      "version": "0.2.0"
+      "version": "0.2.1"
     },
     {
       "author": "whyrusleeping",
@@ -23,6 +23,6 @@
   "language": "go",
   "license": "BSD-3-Clause",
   "name": "dns",
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
 
